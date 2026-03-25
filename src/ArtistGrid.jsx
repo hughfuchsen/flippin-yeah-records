@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import artists from "artists.js";
+import artists from "./artists.js";
 
 const ArtistGrid = () => {
     const [selectedArtist, setSelectedArtist] = useState(null);
