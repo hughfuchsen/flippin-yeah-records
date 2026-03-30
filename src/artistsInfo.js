@@ -116,9 +116,7 @@ const artists = [
   {
     name: "Super Hotel",
     images: ["/superHotel.jpg", "/superHotel2.jpg"],
-    bio: `Super Hotel is your Magandjin/Brisbane band for meanders, sits and stands. Their bent blends of observational poetry and alternative-country-rock may palliate your ailments by a sort of merry melancholy, like taking a slow jaunt by a rainy river or sharing a nod with your local bus driver.
-    \n\n
-    Written and recorded in a time of personal upheaval, shared between bandmates during injury, grief, medical malpractice and a flooded caravan, the Hotel’s self-recorded self-titled debut EP leans into loss and losing with a sense of warmth and dry humour: “Do not wail your buffering, you can sail your suffering”.`,
+    bio: `Super Hotel is your Magandjin/Brisbane band for meanders, sits and stands. Their bent blends of observational poetry and alternative-country-rock may palliate your ailments by a sort of merry melancholy, like taking a slow jaunt by a rainy river or sharing a nod with your local bus driver.`,
     website: "https://www.instagram.com/superhotelband",
     productLink: "https://flippinyeahindustries.bigcartel.com"
   },
