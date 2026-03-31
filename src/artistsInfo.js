@@ -118,7 +118,7 @@ const artists = [
     images: ["/superHotel.jpg", "/superHotel2.jpg"],
     bio: `Super Hotel is your Magandjin/Brisbane band for meanders, sits and stands. Their bent blends of observational poetry and alternative-country-rock may palliate your ailments by a sort of merry melancholy, like taking a slow jaunt by a rainy river or sharing a nod with your local bus driver.`,
     website: "https://www.instagram.com/superhotelband",
-    productLink: "https://flippinyeahindustries.bigcartel.com"
+    productLink: "https://flippinyeahindustries.bigcartel.com/artist/super-hotel"
   },
   // {
   //   name: "David Dondero",
