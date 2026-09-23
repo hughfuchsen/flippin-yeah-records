@@ -97,8 +97,8 @@ const artists = [
   {
     name: "The Grand Magoozi",
     images: ["/theGrandMagoozi1.jpg", "/theGrandMagoozi2.jpg", "/theGrandMagoozi3.jpg", "/theGrandMagoozi4.jpg"],
-    bio: `Like a seductive David Lynch chanteuse, The Grand Magoozi occupies the stage in a dreamy twilight world. Susie Scurry’s smoky vocals deliver lament and subtle wit in equal measure, pondering a modern world gone awry.\n\n
-    Drawing on formative influences that take in Appalachian string-band music and the canon of Roy Orbison, Scurry calls from a time of burnished musical purity. Infused with both dark space and languor, her songs also honour the likes of Patsy Cline, Karen Dalton and Billy Holiday. The Grand Magoozi is a voice in the lonesome night demanding an earnest and endearing ear, imploring us to see through the haze and make simpler sense of today’s world.`,
+    bio: `The Grand Magoozi is the musical pen name of Melbourne based songwriter Susie Scurry, whose debut album arrived nearly a decade ago seemingly out of nowhere. 
+    \n\nThose lucky enough to discover it were struck by its timelessness, with the record travelling hand to hand through word of mouth and finding its way into the collections of devoted listeners. Drawing from the traditions of American and English folk music while carrying something quintessentially Australian, it introduced a songwriter unlike anyone else.`,
     website: "null",
     productLink: "https://flippinyeahindustries.bigcartel.com/artist/the-grand-magoozi"
   },
